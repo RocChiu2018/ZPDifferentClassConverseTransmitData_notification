@@ -1,0 +1,2 @@
+# ZPDifferentClassConverseTransmitData_notification
+介绍不同类之间是如何利用通知模式来逆传数据的。
